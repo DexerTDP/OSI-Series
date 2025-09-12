@@ -1,4 +1,4 @@
-# OSI-Series
+# OSI Series
 
 Welcome to the **OSI Series** repository — a time-limited open-source project focused on collecting, analyzing, and documenting Open Source Intelligence (OSINT) investigations. This project explores real-world case studies using publicly available data, applying investigative techniques to uncover insights in a transparent and replicable way.
 
