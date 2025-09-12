@@ -8,7 +8,7 @@ Welcome to the **OSI Series** repository — a time-limited open-source project 
 
 🗓️ **This repository will be archived on November 29, 2025**.
 
-The purpose of archiving is to preserve the investigative work conducted during this limited-time project. After this date, the repository will remain publicly accessible in a read-only state, with no further updates and any contributions will not be accepted.
+The purpose of archiving is to preserve the investigative work conducted during this limited-time project. After this date, the repository will remain publicly accessible in a read-only state, with no further updates.
 
 ---
 
