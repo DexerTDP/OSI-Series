@@ -19,7 +19,6 @@ The purpose of archiving is to preserve the investigative work conducted during 
 - **Content Includes:**
   - Investigation reports
   - Collected evidence (screenshots, documents, metadata)
-  - Analysis notes and methods
   - Supporting scripts and tools
 
 ---
