@@ -30,7 +30,7 @@ osi-series/
 ├── CASES/                   # Individual OSINT investigation cases
 │   ├── Investigation 1/
 │   │   ├── report.md        # Full case report
-│   │   └── Supportive evidence/        # Images, documents, screenshots
+│   │   └── Supportive evidence  # Images, documents, screenshots
 │   └── case_002/
 │       ├── report.md
 │       ├── notes.md
