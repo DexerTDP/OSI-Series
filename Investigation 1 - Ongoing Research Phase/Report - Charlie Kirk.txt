@@ -47,7 +47,7 @@ Key Spikes and Events:
 highlighted) 
 - Due to a friend tipping off on Tyler Robinson's inolvement due to discord messages about the drop off point where the gun was at. Friend tipped the FBI and he was arrested. 
 
-4.3 Geolocation (If Available)
+4.3 Geolocation 
 
 Top Countries/Regions:
 USA
@@ -67,9 +67,9 @@ Username	Followers	Activity	Notes
 
 6. Sentiment & Narrative Analysis
 Sentiment	% of Posts
-Positive	XX%
-Neutral		XX%
-Negative	XX%
+Positive	
+Neutral		
+Negative	
 
 Dominant Themes:
 
@@ -102,16 +102,3 @@ Recommended Actions: Observation over human behavior is crucial
 
 Monitor related hashtags: #charilekirkshot, #charliekirkdead
 
-
-
-10. ✅ Conclusion & Recommendations
-
-Summary: [1-2 sentence conclusion]
-
-Recommended Actions:
-
-Monitor related hashtags: #[RelatedTag1], #[RelatedTag2]
-
-Engage with community or issue public clarification
-
-Escalate to [LEA, Legal, Comms Team], if required
