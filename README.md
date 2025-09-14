@@ -28,7 +28,7 @@ osi-series/
 ├── LICENSE                  # Licensing information (MIT + CC BY 4.0)
 ├── CASES/                   # Individual OSINT investigation cases
 │   ├── Investigation One/
-│   │   ├── report.md        # Full case report
+│   │   ├── report.txt           # Full case report
 │   │   └── Supportive evidence  # Images, documents, screenshots
 │   └── Investigation Two/
 │       ├── report.md
