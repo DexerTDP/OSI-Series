@@ -2,7 +2,7 @@ OSINT Investigative Report
 
 Subject/Topic: Charile Kirk 
 Date 9/11/2025
-Classification Status: Public | Ongoing Research | Updated as timeline is established by FBI
+Classification Status: Public | Ongoing Archiving media phase | Prelim observation and research complete
 
 Purpose of the Investigation: To observe the ongoing responses, spread, and impact since the public assasination of Conservative Right-Wing Activist and Founder of Turning Point USA Charile Kirk on September 10, 2025. 
 
@@ -61,6 +61,22 @@ out the hypocricy of the right in their reaction, some extreme right wing accoun
 -X users have shared reports that tyler may have been living with a transgender partner for which the argument restarts given that "the narrative is shaping".
 - New screenshots of leftist trolls saying that the widow of charile kirk erika kirk should be next 
 - user youranonnews finds out about the site charliesmurders.com and mentions a tweet about it.
+- David hogg (survivor of the parkland shooting) quotes alex jones (infamous personality who downplayed the parking shooting incident and the victims) with a response of go fuck yourself
+
+09/14/2025
+- Nick Sortor from X reports that FBI and state agencies are investigating left wing groups. 
+- Patriot front marching in huntington beach "fight back! say his name charile kirk"
+- FBI director Kash Patel confirms that Robinson was living with his transgender partner. 
+- the user handle @mainewonk acknowledged reciving a dm from a maga member recoginzing that consistency in calling out violence regardless of sides is vital. 
+
+09/15/2025
+- charliesmurders.com website goes down and emails suspended.
+- it is confirmed that robsinson used discord to confess that he commited the crime which contradicted discord's claim that he didn't use discord to plan. 
+
+09/16/2025
+- Robinson was arrianged in the Utah courthouse and had been charged officially with charile's murder and are seeking the death penality
+- A x user mentions that most of what people think of charlie's influence is due to hate watchers instead of supporters. While another user said that charlie had a sucessful campaign than trump did. 
+
 4.3 Geolocation
 
 Top Countries/Regions:
@@ -73,17 +89,11 @@ Israel
 Language Distribution:
 English
 
-5.  Reaction Analysis
-5.1 Key Influencers / Accounts
-Username	Followers	Activity	Notes
-
-
-
-6. Sentiment & Narrative Analysis
+5. Sentiment & Narrative Analysis
 Sentiment	% of Posts
-Positive	
-Neutral	
-Negative	
+Positive	25
+Neutral	50
+Negative	25
 
 Dominant Themes:
 
@@ -93,10 +103,16 @@ Theme 2: Ideology Shaming
 
 Theme 3: plea to end violence regardless of views
 
-Sample Quotes: pending
+Sample Quotes: 
+"fight back! say his name charile kirk"
+"the left is now celebrating charile kirk's brutal murder"
+"There is no reasoning with the evil left terrorists"
+"Thank you for speaking out against the violence against CK. I admit we need to do better at calling out right wing violence too."
+"If you feel compelled to send his family condolences fine, that's your personal choice. But don't turn around and scold others for refusing to shed tears over a man who dedicated his to dehumanizing and endangering them. It only shows you don't stand for nothing"
+"The killing of charile kirk is tragic and justifiable. At the same time the outrage feels hollow from those who cheered state violence abroad and at home."
+"Kirk is neither a martyr nor a hero, he is a cause"
 
-
-7. Observations & Hypotheses
+6. Observations & Hypotheses
 
 - There's high signs of emotional reaction and condemenation, looking for confirmation bias. People are looking to put blame or target without giving the event or timeline 
 being established by the people whose job it is to do that and getting paid for it. The overall reaction proves without a doubt that people, regardless of views. Hold the same
@@ -106,15 +122,17 @@ foundation of selective chosing based on how a topic or a person makes them feel
 
 - real world impact has already happened before Charlie Kirk's assinsation. Reactions were very similar to this but now the sphere's changed. 
 
-9. Supporting Evidence (Seperate Folder)
+7. Supporting Evidence (Seperate Folder)
 
-10. Conclusion & Recommendations
+8. Conclusion & Recommendations
 
-Summary: pending
+Summary: The analysis indicates that Kirk’s death generated widespread emotional response and rapid narrative formation online, highlighting the importance of monitoring emerging misinformation and public sentiment in real time.
 
-Recommended Actions: Observation over human behavior is crucial 
+Recommended Actions: Observation over human behavior is crucial in high moments, compare every piece of media and then finding truth in the middle of reports. 
 
-Monitor related hashtags: #charilekirkshot, #charliekirkdead
+Monitor related hashtags: #charilekirkshot, #charliekirkdead, #charliekirk
+
+'Right and wrong are born in the heart, yet morality demands consistency. Outrage only when convenient is hypocrisy.' - Dexer
 
 
 
